@@ -16,6 +16,8 @@ Citi Bike is New York’s bike share system.  Launched in May 2013, it consists 
 
 ## Data Set 
 The data set was obtained from [Kaggle](https://www.kaggle.com/datasets/ryanmcummings/citi-bike-data)
+I also obtained a New York City Zip Code GEOJSON file from [Kaggle](https://www.kaggle.com/datasets/saidakbarp/nyc-zipcode-geodata)
+Data for the time-series analysis was obtained from [Nasdaq Data Link](https://data.nasdaq.com/databases/JODI) 
 
 The data was collected over the month of September 2013 and includes trip id, day of week, start and end times, start and end stations, birth year and gender.  
 
