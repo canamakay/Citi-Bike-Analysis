@@ -1,9 +1,9 @@
 # Citi Bike Analysis
 
-# Project Overview
+## Project Overview
 Citi Bike is New York’s bike share system.  Launched in May 2013, it consists of bikes locked into docking stations throughout the city.  Bikes are borrowed from one station and can be returned to any other docking station in the system.  Since its launch it has become an important part of transportation in the city, getting people to and from work, school, appointments, and social engagements.  The goal of this project is to gather insights about rider behavior to help inform marketing strategies and expansion of Citi Bike services.
 
-# Key Questions 
+## Key Questions 
 - What are the busiest days and hours for Citi Bikers? 
 - How does rider behavior differ based on gender?  
 -	How does rider behavior differ based on age group? 
@@ -14,10 +14,10 @@ Citi Bike is New York’s bike share system.  Launched in May 2013, it consists 
 - How does age affect trip duration?
 - How does age affect start hour?
 
-# Data Set 
+## Data Set 
 The data set was obtained from [Kaggle](https://www.kaggle.com/datasets/ryanmcummings/citi-bike-data)
 
-# Tools Used 
+## Tools Used 
 Data was analyzed using Python and the following libraries:
 - Pandas - for data manipulation and analysis
 - Numpy - for mathematical functions
@@ -28,7 +28,7 @@ Data was analyzed using Python and the following libraries:
 - Sklearn - for machine learning 
 - Statsmodels - for statistical tests 
 
-# Folder Contents 
+## Folder Contents 
 - 01 Project Management - Project Brief
 - 02 Data - This folder contains two subfolders - 'Original Data' which consists of original data sets and 'Prepared Data' which consists of data sets that are cleaned and ready for analysis. Data sets were not uploaded into GitHub due to space limitations.
 - 03 Scripts - Jupyter Notebooks with Python code.
