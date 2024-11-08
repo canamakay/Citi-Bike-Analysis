@@ -18,6 +18,7 @@ Citi Bike is New York’s bike share system.  Launched in May 2013, it consists 
 The data set was obtained from [Kaggle](https://www.kaggle.com/datasets/ryanmcummings/citi-bike-data)
 
 # Tools Used 
+Data was analyzed using Python and the following libraries:
 - Pandas - for data manipulation and analysis
 - Numpy - for mathematical functions
 - OS - for interacting with the operating system
